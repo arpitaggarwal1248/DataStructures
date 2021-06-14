@@ -1,5 +1,0 @@
-Spiral
-Search in Matrix
-Rotate Matrix
-Unique Matrix
-ZigZag Matrix
